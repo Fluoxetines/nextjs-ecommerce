@@ -28,7 +28,7 @@ const success = () => {
         </p>
         <p className="description">
           Nếu có thắc mắc, vui lòng liên hệ
-          <a href="mailto:example@gmail.com">example@gmail.com</a>
+          <a href="mailto:example@gmail.com"> example@gmail.com</a>
         </p>
         <Link href="/">
           <button type="button" className="btn" width="300px">
